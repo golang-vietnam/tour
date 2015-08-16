@@ -1,14 +1,14 @@
-Packages, variables, and functions.
-Learn the basic components of any Go program.
+Gói, biến, và hàm.
+Học các thành phần cơ bản của mọi chương trình viết bằng Go.
 
-The Go Authors
+Các tác giả của ngôn ngữ Go
 http://golang.org
 
-* Packages
+* Gói (package)
 
-Every Go program is made up of packages.
+Mọi chương trình Go được tạo thành từ các gói (package).
 
-Programs start running in package `main`.
+Chương trình bắt đầu chạy từ gói `main`.
 
 This program is using the packages with import paths `"fmt"` and `"math/rand"`.
 
